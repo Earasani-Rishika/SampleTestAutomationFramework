@@ -1,11 +1,9 @@
 package com.api.tests;
 
-public class LoginAPITests
-{
+public class LoginAPITests {
 
-	public void test()
-	{
+	public void test() {
 		System.out.println("Inside test method");
 	}
-	
+
 }
